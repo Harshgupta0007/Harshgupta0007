@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta0007&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta0007" /> </p>
 
+<p align="left"> <a href="https://twitter.com/harsh_gupta0007" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_gupta0007?logo=twitter&style=for-the-badge" alt="harsh_gupta0007" /></a> </p>
+
 
 <a target="_blank">
   <img align="right" height="210" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
