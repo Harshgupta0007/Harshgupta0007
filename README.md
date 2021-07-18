@@ -14,6 +14,10 @@
 
 - 🌱 I’m currently learning **Python, Html, CSS, JS, mongoDB, pyqt5**
 
+- 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff**
+
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/harsh_gupta0007/) 
+
 - ⚡ Fun fact **I am Sarcastic!!!**
 
 
