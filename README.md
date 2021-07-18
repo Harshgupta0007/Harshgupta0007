@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Library Management System**
 
-- 🌱 I’m currently learning **Python, Html, CSS, JS, mongoDB, pyqt5**
+- 🌱 I’m currently learning **Python, C, C++, Html, CSS, JS, mongoDB, pyqt5**
 
 - 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff**
 
