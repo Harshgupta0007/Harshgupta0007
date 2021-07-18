@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta0007&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta0007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgupta0007" alt="harshgupta0007" /></a> </p>
-![age](https://img.shields.io/badge/age-19-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-GORAKHPUR-3c9)
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png">
