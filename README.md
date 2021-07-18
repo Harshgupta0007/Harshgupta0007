@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Python, Html, CSS, JS, mongoDB, pyqt5**
 
 - ⚡ Fun fact **I am Sarcastic!!!**
-- <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://www.google.com/search?q=code+images&rlz=1C1RXQR_enIN956IN956&sxsrf=ALeKk03HuslQ_ud2UoxipyVKH_yM4zeylg:1626606484764&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjNuNqtvezxAhUFb30KHQtvDs0Q_AUoAXoECAEQAw&biw=1280&bih=585#imgrc=6zfb2djrrHhFfM"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
