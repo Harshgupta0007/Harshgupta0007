@@ -6,7 +6,7 @@
 
 
 <a target="_blank">
-  <img align="right" height="300" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" height="220" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
 - 🔭 I’m currently working on **Library Management System**
