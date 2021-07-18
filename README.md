@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgupta0007" alt="harshgupta0007" /></a> </p>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png">
+  <img align="right" height="250" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
 - 🔭 I’m currently working on **Library Management System**
