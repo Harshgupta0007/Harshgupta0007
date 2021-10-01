@@ -11,9 +11,7 @@
   <img align="right" height="250" width="330" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </a>
 
-- 🔭 I’m currently working on **Virtual Desktop Assistant**
-
-- 🌱 I’m currently learning **Python, C, C++, Html, CSS, JS, mongoDB, pyqt5**
+- 🌱 I’m currently learning **Java, Python, C, C++, Html, CSS, JS, mongoDB, pyqt5
 
 - 👯 I’m looking to collaborate on **Python projects and Basic Web Dev stuff**
 
