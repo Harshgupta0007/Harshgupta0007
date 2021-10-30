@@ -35,5 +35,5 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgupta0007" alt="harshgupta0007" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshgupta0007&show_icons=true&locale=en" alt="harshgupta0007" width="350"/></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta0007&" alt="harshgupta0007" width="350"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshgupta0007&show_icons=true&locale=en" alt="harshgupta0007" width="385"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta0007&" alt="harshgupta0007" width="385"/></p>
